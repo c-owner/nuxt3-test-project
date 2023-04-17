@@ -1,0 +1,24 @@
+
+# key
+cert/
+
+# IDE
+.idea/
+.vscode/
+
+# junk
+dumb.rdb
+server/database/migrations
+yarn.lock
+package-lock.json
+
+
+# node.js ignore
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+dist
