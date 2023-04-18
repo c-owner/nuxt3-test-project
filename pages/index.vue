@@ -2,7 +2,7 @@
 </script>
 
 <template>
-    <div>11ww</div>
+    <div>corner test project</div>
 </template>
 
 <style scoped>
